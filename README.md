@@ -2,4 +2,4 @@
 
 Prueba de repositorio
 
-[visita mi blog]:(whttps://blogueropro.com/blog/)
+[Visita mi blog](https://blogueropro.com/blog/)
